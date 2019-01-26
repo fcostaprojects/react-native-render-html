@@ -1,6 +1,6 @@
 import TextStylesPropTypes from 'react-native/Libraries/Text/TextStylePropTypes';
 import DeprecatedViewStylePropTypes from 'react-native/Libraries/DeprecatedPropTypes/DeprecatedViewStylePropTypes';
-import DeprecatedImageStylesPropTypes from 'react-native/Libraries/Image/ImageStylePropTypes';
+import DeprecatedImageStylesPropTypes from 'react-native/Libraries/Image/DeprecatedImageStylePropTypes';
 
 // Filter prop-types that are only applicable to <Text> and not <View>
 export let TextOnlyPropTypes = {};
